@@ -49,8 +49,6 @@ function setUpBotonesModo() {
             modoBotones[0].classList.remove("seleccionado");
             modoBotones[1].classList.remove("seleccionado");
             this.classList.add("seleccionado");
-            //la línea siguiente hace lo mismo que el if comentado más abajo
-            //la primera parte es la condición; ? = then; : = else
             this.textContent === "Fácil" ? numDeCuadrados = 3: numDeCuadrados = 6;
             reset();
         });
