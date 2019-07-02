@@ -1,4 +1,4 @@
-# Juego-de-Adivinar-Colores
+# Juego de colores RGB 
 Un juego para adivinar el color según el código RGB del mismo.
 Al jugador se le presenta un código RGB de forma aleatoria y él debe adivinar que color
 representa de los que se le muestran en pantalla (3 colores si está en modo fácil, 6 en modo difícil)
