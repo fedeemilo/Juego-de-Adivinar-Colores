@@ -5,3 +5,6 @@ representa de los que se le muestran en pantalla (3 colores si está en modo fá
 Si el jugador adivina correctamente entonces todo se pinta de ese color, sino el color clickeado desaparece. 
 
 ![alt text](https://raw.githubusercontent.com/fedeemilo/Juego-de-Adivinar-Colores/master/Juego-RGB.png)
+
+# En éste codepen pueden probar el juego
+https://codepen.io/fedeemilo/full/xBjXYp
